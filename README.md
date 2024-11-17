@@ -11,7 +11,7 @@ Before you begin, please ensure you meet the following requirements:
 
 ## Step 1: Download the SQL File
 
-1. Click [here]([https://example.com/datafile.sql](https://github.com/Kevinsorensen523/IF351-Dataset/blob/main/if351_week12.sql)) to download the `if351_week12.sql`. This file contains the SQL commands needed to create and populate your database.
+1. Click [here](https://github.com/Kevinsorensen523/IF351-Dataset/blob/main/if351_week12.sql) to download the `if351_week12.sql`. This file contains the SQL commands needed to create and populate your database.
 2. Save the file to a location on your computer where you can easily access it.
 
 ## Step 2: Importing the SQL File
@@ -21,7 +21,7 @@ Before you begin, please ensure you meet the following requirements:
 1. Open MySQL Workbench and connect to your database server with your credentials.
 2. Navigate to **Server** > **Data Import**.
 3. Select **Import from Self-Contained File**.
-4. Click the **...** button to browse and select the downloaded `datafile.sql` file.
+4. Click the **...** button to browse and select the downloaded `if351_week12.sql` file.
 5. Choose the Default Target Schema or create a new schema for importing the tables.
 6. Click **Start Import** at the bottom right to execute the SQL commands and set up your database.
 
